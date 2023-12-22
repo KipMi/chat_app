@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708651088930",
+    "project_id": "kipchat-99b1a",
+    "storage_bucket": "kipchat-99b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708651088930:android:53b97e206d137f46899e7b",
+        "android_client_info": {
+          "package_name": "com.kipmi.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708651088930-la3459ib5c5f51ubm8ts3i9p779m4ld9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOL6lqxMJV93VuXgM2tJh12s65JVk39Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708651088930-la3459ib5c5f51ubm8ts3i9p779m4ld9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
